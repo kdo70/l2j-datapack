@@ -1,0 +1,17 @@
+[05-02-2022 19:34:48]	INFO	-------------------------------------------------------------------=[ Config ]
+[05-02-2022 19:34:48]	INFO	Loading loginserver configuration files.
+[05-02-2022 19:34:48]	INFO	------------------------------------------------------------------=[ Poolers ]
+[05-02-2022 19:34:48]	INFO	Initializing ConnectionPool.
+[05-02-2022 19:34:48]	INFO	----------------------------------------------------------=[ LoginController ]
+[05-02-2022 19:34:48]	INFO	Cached 10 KeyPairs for RSA communication.
+[05-02-2022 19:34:48]	INFO	Stored 20 keys for Blowfish communication.
+[05-02-2022 19:34:48]	INFO	--------------------------------------------------------=[ GameServerManager ]
+[05-02-2022 19:34:48]	INFO	Loaded 127 server names.
+[05-02-2022 19:34:48]	INFO	Loaded 1 registered gameserver(s).
+[05-02-2022 19:34:48]	INFO	Cached 10 RSA keys for gameserver communication.
+[05-02-2022 19:34:48]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[05-02-2022 19:34:48]	INFO	Loaded 0 banned IP(s).
+[05-02-2022 19:34:48]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[05-02-2022 19:34:48]	INFO	Listening for gameservers on *:9014.
+[05-02-2022 19:34:48]	INFO	Loginserver ready on *:2106.
+[05-02-2022 19:34:48]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
