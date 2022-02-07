@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item id="9300" type="EtcItem" name="Gold Einhasad">
+        <set name="material" val="STEEL"/>
+        <set name="is_stackable" val="true"/>
+        <set name="weight" val="100"/>
+        <set name="price" val="1000"/>
+    </item>
+</list>
